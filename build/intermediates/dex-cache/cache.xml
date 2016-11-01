@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="46a402bed44c0b3e552ab7869dfe5202436ce317">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_106810bcc124e6556e3c31b9340eb618c910546f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4a60594e383b902d914875b8ebc084c43cf9e0ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2665de7573a993f584d2b6a5a9fd257deccececc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_bd1ff7622810ac2a8b447ffd580773f18f27ad51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99ff627a1b2bf9f76d839b92dd99b21a0b56fbb6">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f4f5ce899fd8bc6813ba2b81929ac316a4dbc86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_5d12deb1e7d8e02629e5ff6084e327265be14755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/exploded-aar/com.getpebble/pebblekit/3.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="342386e8b60785f72ff6bd6955e43fea0f8709d6">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getpebble-pebblekit-3.1.0_33f6c1ebb7e2a883260e9227296f9e99226495be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_26da38726c0a5018ca4261b8f6ca27707f639c7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/angela02pd2014/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d0853092a612c1c173d7a25eaee3b586ac376587/classes.dex" />
+    </item>
+
+</items>
