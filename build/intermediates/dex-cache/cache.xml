@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="46a402bed44c0b3e552ab7869dfe5202436ce317">
+        sha1="e8943484d9fe17befa9339456dec635421fcf6f3">
         <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_106810bcc124e6556e3c31b9340eb618c910546f/classes.dex" />
     </item>
     <item
@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="99ff627a1b2bf9f76d839b92dd99b21a0b56fbb6">
+        sha1="840a9bfdd3e0bd532d494922b46311e59050d0d9">
         <dex dex="/Users/angela02pd2014/Developer/AndroidStudioProjects/PebbleTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f4f5ce899fd8bc6813ba2b81929ac316a4dbc86/classes.dex" />
     </item>
     <item
